@@ -1,1 +1,6 @@
-#----Datos encuesta multipropósito----
+# Dependencias
+# Datos
+# Anotaciones
+# Procesamiento
+# Estadísticas
+# Mapas
