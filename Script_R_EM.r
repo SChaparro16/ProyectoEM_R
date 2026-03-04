@@ -1,6 +1,6 @@
-# Dependencias
-# Datos
-# Anotaciones
-# Procesamiento
-# Estadísticas
-# Mapas
+# ---- Dependencias ----
+# ---- Datos ----
+# ---- Anotaciones ----
+# ---- Procesamiento ----
+# ---- Estadísticas ----
+# ---- Mapas ----
