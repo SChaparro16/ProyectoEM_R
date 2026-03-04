@@ -1,2 +1,2 @@
-# Proyecto-EM---R
+# ProyectoEM_R
 Análisis de la encuesta multipropósito en R
